@@ -1,0 +1,36 @@
+.circle {
+  width: 100px;
+  height: 100px;
+  background: #dd6b4d;
+  border-radius: 0px;
+  position: relative;
+  top: 100px;
+  left: 150;
+  border-bottom-right-radius: 100px;
+  border-top-left-radius: 100px;
+  transform: rotate(45deg);
+}
+.half,
+.half2 {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  border-bottom-right-radius: 100px;
+  top: 0;
+  background-color: #a3516e;
+}
+.half2 {
+  border-top-left-radius: 100px;
+  top: 300px;
+}
+body {
+  background-color: aquamarine;
+  padding: 0;
+  margin: 0;
+}
+.arrow-left {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
