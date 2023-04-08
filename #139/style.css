@@ -1,0 +1,25 @@
+.lamp {
+    width: 130px;
+    height: 120px;
+    background: #ffffff;
+    clip-path: polygon(25% 0, 75% 0, 100% 100%, 0 100%);
+    position: absolute;
+    top: 80;
+    left: 127px;
+    background: #FFFBDA;
+}
+
+.lamp-leg {
+    width: 10px;
+    height: 90px;
+    background: rgb(44, 58, 122);
+    top: 128px;
+    left: 187px;
+    position: absolute;
+    background: #62306D;
+
+}
+
+body {
+    background: #E38F66;
+}
