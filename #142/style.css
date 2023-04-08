@@ -1,0 +1,22 @@
+div {
+    height: 200px;
+    background: #dd6b4d;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background: #4F77FF;
+}
+
+.pa {
+    width: 20px;
+    background: #FFFFFF;
+}
+
+.niepa {
+    width: 60px;
+    background: #1038BF;
+}
