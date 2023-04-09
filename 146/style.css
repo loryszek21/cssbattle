@@ -1,0 +1,33 @@
+  .line {
+      width: 25px;
+      height: 400px;
+      transform: rotate(45deg);
+      position: absolute;
+      background: #FCBE5C
+  }
+
+  .l1 {
+      top: 2px;
+      left: 290px;
+  }
+
+  .l2 {
+      left: 320px;
+  }
+
+  .l2,
+  .l4 {
+      background: #0B2429;
+  }
+
+  .l3 {
+      left: 393px;
+  }
+
+  .l4 {
+      left: 426px
+  }
+
+  body {
+      background: #998235
+  }
